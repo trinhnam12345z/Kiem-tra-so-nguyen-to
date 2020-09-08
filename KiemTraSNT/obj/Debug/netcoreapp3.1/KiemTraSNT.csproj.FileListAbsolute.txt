@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.exe
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.deps.json
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.runtimeconfig.json
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.runtimeconfig.dev.json
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.dll
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\bin\Debug\netcoreapp3.1\KiemTraSNT.pdb
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.AssemblyInfo.cs
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.dll
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.pdb
+C:\Users\PC\source\repos\KiemTraSNT\KiemTraSNT\obj\Debug\netcoreapp3.1\KiemTraSNT.genruntimeconfig.cache
