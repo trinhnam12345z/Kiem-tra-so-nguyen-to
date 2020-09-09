@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\KiemTraSNT\\KiemTraSNT\\KiemTraSNT.csproj",
+      "projectUniqueName": "E:\\C#\\Kiem-tra-so-nguyen-to\\KiemTraSNT\\KiemTraSNT.csproj",
       "projectName": "KiemTraSNT",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\KiemTraSNT\\KiemTraSNT\\KiemTraSNT.csproj",
+      "projectPath": "E:\\C#\\Kiem-tra-so-nguyen-to\\KiemTraSNT\\KiemTraSNT.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\KiemTraSNT\\KiemTraSNT\\obj\\",
+      "outputPath": "E:\\C#\\Kiem-tra-so-nguyen-to\\KiemTraSNT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

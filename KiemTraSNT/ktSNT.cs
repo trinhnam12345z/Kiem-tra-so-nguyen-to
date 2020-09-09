@@ -13,6 +13,11 @@ namespace KiemTraSNT
                 Console.Write("Du lieu khong hop le, moi nhap lai n =");
                 kiemtra = uint.TryParse(Console.ReadLine(), out n);
             }
+            kiemtraSNT(n);
+            
+        }
+        static void kiemtraSNT(uint n)
+        {
             if (n == 0)
             {
                 Console.WriteLine("0 khong phai la so nguyen to");
